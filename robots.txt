@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.szjsst.cn/sitemap.xml
